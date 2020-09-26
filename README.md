@@ -13,7 +13,7 @@ other
 
 
 1. [LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list) -  [Remove Nth node from End of List](https://github.com/HappyCoder29/CodeLab-Fall-2020/tree/master/NthFromEndLinkList/src/edu/northeastern/ashish)
-2. LeetCode 83 -  Remove duplicates from sorted Link List
+2. [LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list) -  Remove duplicates from sorted Link List
 3. LeetCode 86 -  Partition List around a value X 
 4. LeetCode 708 - Insert into a Sorted Circular Linked List
 5. LeetCode 1290 - Convert Binary Number in a Linked List to Integer 
