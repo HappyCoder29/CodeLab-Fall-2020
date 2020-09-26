@@ -12,7 +12,7 @@ other
 ## Day 2
 
 
-1. LeetCode 19 -  [Remove Nth node from End of List](https://github.com/HappyCoder29/CodeLab-Fall-2020/tree/master/NthFromEndLinkList)
+1. LeetCode 19 -  [Remove Nth node from End of List](https://github.com/HappyCoder29/CodeLab-Fall-2020/tree/master/NthFromEndLinkList/src/edu/northeastern/ashish)
 2. LeetCode 83 -  Remove duplicates from sorted Link List
 3. LeetCode 86 -  Partition List around a value X 
 4. LeetCode 708 - Insert into a Sorted Circular Linked List
